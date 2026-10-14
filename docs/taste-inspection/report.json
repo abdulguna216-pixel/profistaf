@@ -1,0 +1,2250 @@
+{
+ "url": "http://127.0.0.1:5173",
+ "at": "2026-10-14T19:58:38.599Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1024,
+   "height": 768,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.74,
+    0.83,
+    0.79
+   ],
+   "motion": {
+    "elements": 17,
+    "css": 2,
+    "transitions": 15,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1024,
+     "h": 768
+    },
+    "page": {
+     "height": 1571,
+     "screens": 2,
+     "words": 306,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 19,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "hero-960.webp",
+      "pick-480.webp",
+      "production-480.webp",
+      "logistics-480.webp",
+      "warehouse-480.webp",
+      "warehouse-480.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "✳"
+     ]
+    },
+    "hero": {
+     "text": "НАШИ УСЛУГИ",
+     "words": 2,
+     "chars": 11,
+     "lines": 2,
+     "size": 70.4,
+     "vw": 6.9,
+     "font": "Display",
+     "weight": 700,
+     "tracking": -0.035,
+     "leading": 0.83,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.23,
+     "top": 446,
+     "tag": "h2",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, ПРОИЗВОДСТВ И ЛОГИСТИКИ.",
+     "words": 7,
+     "lines": 3,
+     "size": 61.6,
+     "font": "Display"
+    },
+    "headings": [
+     {
+      "text": "ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, ПРОИЗВОДСТВ И ЛОГИСТИКИ.",
+      "words": 7,
+      "chars": 63,
+      "lines": 3,
+      "size": 61.6,
+      "vw": 6,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.93,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.5,
+      "top": 113,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "НАШИ УСЛУГИ",
+      "words": 2,
+      "chars": 11,
+      "lines": 2,
+      "size": 70.4,
+      "vw": 6.9,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.83,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 446,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 32,
+      "vw": 3.1,
+      "font": "Display",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 652,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 32,
+      "vw": 3.1,
+      "font": "Display",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 652,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 32,
+      "vw": 3.1,
+      "font": "Display",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.06,
+      "top": 652,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "04",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 32,
+      "vw": 3.1,
+      "font": "Display",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.06,
+      "top": 652,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "КАК МЫ РАБОТАЕМ.",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 65.6,
+      "vw": 6.4,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.84,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.25,
+      "top": 842,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "НАШИ ПРЕИМУЩЕСТВА.",
+      "words": 2,
+      "chars": 18,
+      "lines": 2,
+      "size": 57.6,
+      "vw": 5.6,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 1008,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ВОПРОСЫ? У НАС ЕСТЬ ОТВЕТЫ.",
+      "words": 5,
+      "chars": 27,
+      "lines": 3,
+      "size": 68.8,
+      "vw": 6.7,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.85,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.22,
+      "top": 1156,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "✳",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 32,
+      "vw": 3.1,
+      "font": "Arial",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 1364,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "ОТПРАВЬТЕ ЗАЯВКУ И МЫ ПОДГОТОВИМ ПРЕДЛОЖЕНИЕ ПОД ВАШИ ЗАДАЧИ.",
+      "words": 9,
+      "chars": 61,
+      "lines": 3,
+      "size": 33.6,
+      "vw": 3.3,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.97,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 1366,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 3,
+     "over2Lines": 3,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Body",
+       "share": 0.85,
+       "mono": false
+      },
+      {
+       "family": "Display",
+       "share": 0.12,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.03,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      17,
+      19,
+      21,
+      22,
+      32,
+      34,
+      58,
+      62,
+      66,
+      69,
+      70
+     ],
+     "sizeCount": 18,
+     "notLoaded": [],
+     "body": {
+      "font": "Body",
+      "size": 12.3,
+      "leading": 1.34,
+      "weight": 400,
+      "tracking": -0.005,
+      "contrast": 15.6
+     },
+     "measureChars": 51,
+     "max": {
+      "size": 70.4,
+      "vw": 6.9,
+      "font": "Display",
+      "text": "НАШИ"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.02,
+     "centerShare": 0.02,
+     "smallText": 52
+    },
+    "eyebrows": [
+     {
+      "text": "НАДЁЖНЫЙПАРТНЁР ДЛЯ ВАШЕГОБИЗНЕСА",
+      "above": "ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, П",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.9,
+      "top": 74
+     },
+     {
+      "text": "ПРОСТОЙ ПРОЦЕСС",
+      "above": "КАК МЫ РАБОТАЕМ.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 825
+     },
+     {
+      "text": "ПОЧЕМУ ВЫБИРАЮТ НАС",
+      "above": "НАШИ ПРЕИМУЩЕСТВА.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 990
+     },
+     {
+      "text": "ЧАСТЫЕ ВОПРОСЫ",
+      "above": "ВОПРОСЫ? У НАС ЕСТЬ ОТВЕТЫ.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 1139
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 9.4,
+      "top": 118
+     },
+     {
+      "text": "01 / 04",
+      "size": 10.4,
+      "top": 457
+     },
+     {
+      "text": "01",
+      "size": 32,
+      "top": 652
+     },
+     {
+      "text": "02",
+      "size": 32,
+      "top": 652
+     },
+     {
+      "text": "03",
+      "size": 32,
+      "top": 652
+     },
+     {
+      "text": "04",
+      "size": 32,
+      "top": 652
+     },
+     {
+      "text": "01",
+      "size": 16.8,
+      "top": 844
+     },
+     {
+      "text": "02",
+      "size": 16.8,
+      "top": 844
+     },
+     {
+      "text": "03",
+      "size": 16.8,
+      "top": 844
+     },
+     {
+      "text": "04",
+      "size": 16.8,
+      "top": 844
+     },
+     {
+      "text": "05",
+      "size": 16.8,
+      "top": 844
+     }
+    ],
+    "color": {
+     "bodyBg": "#e2e2df",
+     "bodyBgHsl": {
+      "h": 60,
+      "s": 0.05,
+      "l": 0.88
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#070607",
+       "share": 0.66
+      },
+      {
+       "color": "#d1d0cb",
+       "share": 0.11
+      },
+      {
+       "color": "#f7f6f2",
+       "share": 0.1
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      },
+      {
+       "color": "#b9b8b2",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#070607",
+      "hsl": {
+       "h": 300,
+       "s": 0.08,
+       "l": 0.03
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "Рассчитать стоимость",
+       "ratio": 3.3,
+       "need": 4.5,
+       "size": 10.6,
+       "fg": "#ffffff",
+       "bg": "#fc5000"
+      },
+      {
+       "text": "Отправьте заявку",
+       "ratio": 3.3,
+       "need": 4.5,
+       "size": 10.6,
+       "fg": "#ffffff",
+       "bg": "#fc5000"
+      },
+      {
+       "text": "НАПРАВЛЕНИЯ РАБОТЫ",
+       "ratio": 3.4,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#d94300",
+       "bg": "#e2e2df"
+      },
+      {
+       "text": "ЧАСТЫЕ ВОПРОСЫ",
+       "ratio": 3.4,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#d94300",
+       "bg": "#e2e2df"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 4,
+     "radius": "pill",
+     "height": 34,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Перейти к содержимому",
+      "Рассчитать стоимость",
+      "НАДЁЖНЫЙ ПЕРСОНАЛ ДЛЯ ВАШИХ ЗАДАЧ",
+      "Рассчитать стоимость"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 2,
+     "scrims": 0,
+     "gradientSamples": [
+      "span.halftone.orange-pattern → radial-gradient(rgb(252, 80, 0) 1.04px, rgba(0, 0, 0, 0) 1.28px)",
+      "span.halftone.violet-pattern → radial-gradient(rgb(82, 74, 233) 1.12px, rgba(0, 0, 0, 0) 1.28px)"
+     ],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 4,
+     "boxRadius": 17,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 570
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.35
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": false,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "display",
+     "body"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.48,
+    0.7,
+    0.85,
+    0.58,
+    0.57
+   ],
+   "motion": {
+    "elements": 15,
+    "css": 0,
+    "transitions": 15,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4413,
+     "screens": 4.3,
+     "words": 297,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 19,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "hero-960.webp",
+      "pick-480.webp",
+      "production-480.webp",
+      "logistics-480.webp",
+      "warehouse-480.webp",
+      "warehouse-480.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "✳"
+     ]
+    },
+    "hero": {
+     "text": "ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, ПРОИЗВОДСТВ И ЛОГИСТИКИ.",
+     "words": 7,
+     "chars": 63,
+     "lines": 4,
+     "size": 67.2,
+     "vw": 8.8,
+     "font": "Display",
+     "weight": 700,
+     "tracking": -0.035,
+     "leading": 0.89,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.71,
+     "top": 131,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, ПРОИЗВОДСТВ И ЛОГИСТИКИ.",
+     "words": 7,
+     "lines": 4,
+     "size": 67.2,
+     "font": "Display"
+    },
+    "headings": [
+     {
+      "text": "ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, ПРОИЗВОДСТВ И ЛОГИСТИКИ.",
+      "words": 7,
+      "chars": 63,
+      "lines": 4,
+      "size": 67.2,
+      "vw": 8.8,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.89,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 131,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "НАШИ УСЛУГИ",
+      "words": 2,
+      "chars": 11,
+      "lines": 2,
+      "size": 60.8,
+      "vw": 7.9,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.89,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 964,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36.8,
+      "vw": 4.8,
+      "font": "Display",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.08,
+      "top": 1296,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36.8,
+      "vw": 4.8,
+      "font": "Display",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.08,
+      "top": 1296,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36.8,
+      "vw": 4.8,
+      "font": "Display",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.08,
+      "top": 1592,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "04",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36.8,
+      "vw": 4.8,
+      "font": "Display",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.08,
+      "top": 1592,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "КАК МЫ РАБОТАЕМ.",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 60.8,
+      "vw": 7.9,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.89,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 1844,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "НАШИ ПРЕИМУЩЕСТВА.",
+      "words": 2,
+      "chars": 18,
+      "lines": 2,
+      "size": 53.6,
+      "vw": 7,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 2465,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ВОПРОСЫ? У НАС ЕСТЬ ОТВЕТЫ.",
+      "words": 5,
+      "chars": 27,
+      "lines": 3,
+      "size": 60.8,
+      "vw": 7.9,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.89,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 2927,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ОТПРАВЬТЕ ЗАЯВКУ И МЫ ПОДГОТОВИМ ПРЕДЛОЖЕНИЕ ПОД ВАШИ ЗАДАЧИ.",
+      "words": 9,
+      "chars": 61,
+      "lines": 3,
+      "size": 41.6,
+      "vw": 5.4,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.03,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 3717,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "✳",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Arial",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 4173,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 4,
+     "over2Lines": 3,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Body",
+       "share": 0.84,
+       "mono": false
+      },
+      {
+       "family": "Display",
+       "share": 0.12,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.03,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      18,
+      19,
+      21,
+      35,
+      37,
+      42,
+      54,
+      61,
+      67
+     ],
+     "sizeCount": 17,
+     "notLoaded": [],
+     "body": {
+      "font": "Body",
+      "size": 14.1,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": -0.005,
+      "contrast": 15.6
+     },
+     "measureChars": 68,
+     "max": {
+      "size": 67.2,
+      "vw": 8.8,
+      "font": "Display",
+      "text": "ПРОФЕССИОНАЛЬНЫЙ"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.02,
+     "centerShare": 0.02,
+     "smallText": 36
+    },
+    "eyebrows": [
+     {
+      "text": "НАДЁЖНЫЙПАРТНЁР ДЛЯ ВАШЕГОБИЗНЕСА",
+      "above": "ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, П",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.7,
+      "top": 88
+     },
+     {
+      "text": "НАПРАВЛЕНИЯ РАБОТЫ",
+      "above": "НАШИ УСЛУГИ",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 942
+     },
+     {
+      "text": "ПРОСТОЙ ПРОЦЕСС",
+      "above": "КАК МЫ РАБОТАЕМ.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 1822
+     },
+     {
+      "text": "ПОЧЕМУ ВЫБИРАЮТ НАС",
+      "above": "НАШИ ПРЕИМУЩЕСТВА.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 2443
+     },
+     {
+      "text": "ЧАСТЫЕ ВОПРОСЫ",
+      "above": "ВОПРОСЫ? У НАС ЕСТЬ ОТВЕТЫ.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 2906
+     },
+     {
+      "text": "Ознакомлен с",
+      "above": "✳",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11.2,
+      "top": 4108
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 9.4,
+      "top": 576
+     },
+     {
+      "text": "01 / 04",
+      "size": 10.4,
+      "top": 961
+     },
+     {
+      "text": "01",
+      "size": 36.8,
+      "top": 1296
+     },
+     {
+      "text": "02",
+      "size": 36.8,
+      "top": 1296
+     },
+     {
+      "text": "03",
+      "size": 36.8,
+      "top": 1592
+     },
+     {
+      "text": "04",
+      "size": 36.8,
+      "top": 1592
+     },
+     {
+      "text": "01",
+      "size": 17.6,
+      "top": 1982
+     },
+     {
+      "text": "02",
+      "size": 17.6,
+      "top": 2067
+     },
+     {
+      "text": "03",
+      "size": 17.6,
+      "top": 2152
+     },
+     {
+      "text": "04",
+      "size": 17.6,
+      "top": 2237
+     },
+     {
+      "text": "05",
+      "size": 17.6,
+      "top": 2321
+     }
+    ],
+    "color": {
+     "bodyBg": "#e2e2df",
+     "bodyBgHsl": {
+      "h": 60,
+      "s": 0.05,
+      "l": 0.88
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ebeae4",
+       "top": 1794,
+       "hsl": {
+        "h": 51,
+        "s": 0.15,
+        "l": 0.91
+       }
+      },
+      {
+       "color": "#070607",
+       "top": 2414,
+       "hsl": {
+        "h": 300,
+        "s": 0.08,
+        "l": 0.03
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#070607",
+       "share": 0.65
+      },
+      {
+       "color": "#d1d0cb",
+       "share": 0.12
+      },
+      {
+       "color": "#f7f6f2",
+       "share": 0.1
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      },
+      {
+       "color": "#b9b8b2",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#070607",
+      "hsl": {
+       "h": 300,
+       "s": 0.08,
+       "l": 0.03
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "Рассчитать стоимость",
+       "ratio": 3.3,
+       "need": 4.5,
+       "size": 11.5,
+       "fg": "#ffffff",
+       "bg": "#fc5000"
+      },
+      {
+       "text": "Отправьте заявку",
+       "ratio": 3.3,
+       "need": 4.5,
+       "size": 11.5,
+       "fg": "#ffffff",
+       "bg": "#fc5000"
+      },
+      {
+       "text": "НАПРАВЛЕНИЯ РАБОТЫ",
+       "ratio": 3.4,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#d94300",
+       "bg": "#e2e2df"
+      },
+      {
+       "text": "ЧАСТЫЕ ВОПРОСЫ",
+       "ratio": 3.4,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#d94300",
+       "bg": "#e2e2df"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 4,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Перейти к содержимому",
+      "Рассчитать стоимость",
+      "НАДЁЖНЫЙ ПЕРСОНАЛ ДЛЯ ВАШИХ ЗАДАЧ",
+      "Рассчитать стоимость"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 2,
+     "scrims": 0,
+     "gradientSamples": [
+      "span.halftone.orange-pattern → radial-gradient(rgb(252, 80, 0) 1.04px, rgba(0, 0, 0, 0) 1.28px)",
+      "span.halftone.violet-pattern → radial-gradient(rgb(82, 74, 233) 1.12px, rgba(0, 0, 0, 0) 1.28px)"
+     ],
+     "gradientText": 0,
+     "hairlines": 6,
+     "hairlineSamples": [
+      "article.advantage.sc-in 264px",
+      "article.advantage.sc-in 264px",
+      "article.advantage.sc-in 264px",
+      "article.advantage.sc-in 264px",
+      "article.advantage.sc-in 264px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 4,
+     "boxRadius": 18,
+     "squareMedia": 2,
+     "roundedMedia": 4,
+     "mediaRadius": 18,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 1180
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.29
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "display",
+     "body"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.74,
+    0.71,
+    0.81,
+    1,
+    0.63,
+    0.74,
+    0.74
+   ],
+   "motion": {
+    "elements": 15,
+    "css": 0,
+    "transitions": 15,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5115,
+     "screens": 6.1,
+     "words": 297,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 19,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "hero-480.webp",
+      "pick-480.webp",
+      "production-480.webp",
+      "logistics-480.webp",
+      "warehouse-480.webp",
+      "warehouse-480.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "✳"
+     ]
+    },
+    "hero": {
+     "text": "ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, ПРОИЗВОДСТВ И ЛОГИСТИКИ.",
+     "words": 7,
+     "chars": 63,
+     "lines": 4,
+     "size": 41,
+     "vw": 10.5,
+     "font": "Display",
+     "weight": 700,
+     "tracking": -0.035,
+     "leading": 0.89,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 131,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, ПРОИЗВОДСТВ И ЛОГИСТИКИ.",
+     "words": 7,
+     "lines": 4,
+     "size": 41,
+     "font": "Display"
+    },
+    "headings": [
+     {
+      "text": "ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, ПРОИЗВОДСТВ И ЛОГИСТИКИ.",
+      "words": 7,
+      "chars": 63,
+      "lines": 4,
+      "size": 41,
+      "vw": 10.5,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.89,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 131,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "НАШИ УСЛУГИ",
+      "words": 2,
+      "chars": 11,
+      "lines": 2,
+      "size": 60.8,
+      "vw": 15.6,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.89,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 810,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36.8,
+      "vw": 9.4,
+      "font": "Display",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 1195,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "КОМПЛЕКТАЦИЯ",
+      "words": 1,
+      "chars": 12,
+      "lines": 1,
+      "size": 25.6,
+      "vw": 6.6,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1.03,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 1266,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36.8,
+      "vw": 9.4,
+      "font": "Display",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 1535,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "ПРОИЗВОДСТВО",
+      "words": 1,
+      "chars": 12,
+      "lines": 1,
+      "size": 25.6,
+      "vw": 6.6,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1.03,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 1607,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36.8,
+      "vw": 9.4,
+      "font": "Display",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 1876,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "ЛОГИСТИКА",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 25.6,
+      "vw": 6.6,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1.03,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 1947,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "04",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36.8,
+      "vw": 9.4,
+      "font": "Display",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 2216,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "СКЛАДСКОЙ ПЕРСОНАЛ",
+      "words": 2,
+      "chars": 18,
+      "lines": 2,
+      "size": 25.6,
+      "vw": 6.6,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1.03,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.57,
+      "top": 2279,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "КАК МЫ РАБОТАЕМ.",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 60.8,
+      "vw": 15.6,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.89,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2483,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "НАШИ ПРЕИМУЩЕСТВА.",
+      "words": 2,
+      "chars": 18,
+      "lines": 2,
+      "size": 53.6,
+      "vw": 13.7,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 3121,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ВОПРОСЫ? У НАС ЕСТЬ ОТВЕТЫ.",
+      "words": 5,
+      "chars": 27,
+      "lines": 3,
+      "size": 60.8,
+      "vw": 15.6,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.89,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3635,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ОТПРАВЬТЕ ЗАЯВКУ И МЫ ПОДГОТОВИМ ПРЕДЛОЖЕНИЕ ПОД ВАШИ ЗАДАЧИ.",
+      "words": 9,
+      "chars": 61,
+      "lines": 3,
+      "size": 28.1,
+      "vw": 7.2,
+      "font": "Display",
+      "weight": 700,
+      "tracking": -0.03,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 1.03,
+      "top": 4438,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "✳",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 9,
+      "font": "Arial",
+      "weight": 400,
+      "tracking": -0.002,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 4849,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 15,
+     "maxLines": 4,
+     "over2Lines": 3,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Body",
+       "share": 0.84,
+       "mono": false
+      },
+      {
+       "family": "Display",
+       "share": 0.12,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.03,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      18,
+      19,
+      26,
+      28,
+      35,
+      37,
+      41,
+      54,
+      61
+     ],
+     "sizeCount": 17,
+     "notLoaded": [],
+     "body": {
+      "font": "Body",
+      "size": 14.1,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": -0.005,
+      "contrast": 15.6
+     },
+     "measureChars": 50,
+     "max": {
+      "size": 60.8,
+      "vw": 15.6,
+      "font": "Display",
+      "text": "НАШИ"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.02,
+     "centerShare": 0.02,
+     "smallText": 32
+    },
+    "eyebrows": [
+     {
+      "text": "НАДЁЖНЫЙПАРТНЁР ДЛЯ ВАШЕГОБИЗНЕСА",
+      "above": "ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, П",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.7,
+      "top": 88
+     },
+     {
+      "text": "НАПРАВЛЕНИЯ РАБОТЫ",
+      "above": "НАШИ УСЛУГИ",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 788
+     },
+     {
+      "text": "ПРОСТОЙ ПРОЦЕСС",
+      "above": "КАК МЫ РАБОТАЕМ.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 2462
+     },
+     {
+      "text": "ПОЧЕМУ ВЫБИРАЮТ НАС",
+      "above": "НАШИ ПРЕИМУЩЕСТВА.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 3100
+     },
+     {
+      "text": "ЧАСТЫЕ ВОПРОСЫ",
+      "above": "ВОПРОСЫ? У НАС ЕСТЬ ОТВЕТЫ.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 3614
+     },
+     {
+      "text": "Ознакомлен с",
+      "above": "✳",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11.2,
+      "top": 4785
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 9.4,
+      "top": 502
+     },
+     {
+      "text": "01 / 04",
+      "size": 10.4,
+      "top": 806
+     },
+     {
+      "text": "01",
+      "size": 36.8,
+      "top": 1195
+     },
+     {
+      "text": "02",
+      "size": 36.8,
+      "top": 1535
+     },
+     {
+      "text": "03",
+      "size": 36.8,
+      "top": 1876
+     },
+     {
+      "text": "04",
+      "size": 36.8,
+      "top": 2216
+     },
+     {
+      "text": "01",
+      "size": 17.6,
+      "top": 2622
+     },
+     {
+      "text": "02",
+      "size": 17.6,
+      "top": 2715
+     },
+     {
+      "text": "03",
+      "size": 17.6,
+      "top": 2800
+     },
+     {
+      "text": "04",
+      "size": 17.6,
+      "top": 2885
+     },
+     {
+      "text": "05",
+      "size": 17.6,
+      "top": 2978
+     }
+    ],
+    "color": {
+     "bodyBg": "#e2e2df",
+     "bodyBgHsl": {
+      "h": 60,
+      "s": 0.05,
+      "l": 0.88
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f7f6f2",
+       "top": 1047,
+       "hsl": {
+        "h": 48,
+        "s": 0.24,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#ebeae4",
+       "top": 2433,
+       "hsl": {
+        "h": 51,
+        "s": 0.15,
+        "l": 0.91
+       }
+      },
+      {
+       "color": "#070607",
+       "top": 3071,
+       "hsl": {
+        "h": 300,
+        "s": 0.08,
+        "l": 0.03
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#070607",
+       "share": 0.65
+      },
+      {
+       "color": "#d1d0cb",
+       "share": 0.12
+      },
+      {
+       "color": "#f7f6f2",
+       "share": 0.1
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      },
+      {
+       "color": "#b9b8b2",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#070607",
+      "hsl": {
+       "h": 300,
+       "s": 0.08,
+       "l": 0.03
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "Рассчитать стоимость",
+       "ratio": 3.3,
+       "need": 4.5,
+       "size": 11.5,
+       "fg": "#ffffff",
+       "bg": "#fc5000"
+      },
+      {
+       "text": "Отправьте заявку",
+       "ratio": 3.3,
+       "need": 4.5,
+       "size": 11.5,
+       "fg": "#ffffff",
+       "bg": "#fc5000"
+      },
+      {
+       "text": "НАПРАВЛЕНИЯ РАБОТЫ",
+       "ratio": 3.4,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#d94300",
+       "bg": "#e2e2df"
+      },
+      {
+       "text": "ЧАСТЫЕ ВОПРОСЫ",
+       "ratio": 3.4,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#d94300",
+       "bg": "#e2e2df"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 4,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Перейти к содержимому",
+      "Рассчитать стоимость",
+      "НАДЁЖНЫЙ ПЕРСОНАЛ ДЛЯ ВАШИХ ЗАДАЧ",
+      "Рассчитать стоимость"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 2,
+     "scrims": 0,
+     "gradientSamples": [
+      "span.halftone.orange-pattern → radial-gradient(rgb(252, 80, 0) 1.04px, rgba(0, 0, 0, 0) 1.28px)",
+      "span.halftone.violet-pattern → radial-gradient(rgb(82, 74, 233) 1.12px, rgba(0, 0, 0, 0) 1.28px)"
+     ],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 4,
+     "boxRadius": 18,
+     "squareMedia": 2,
+     "roundedMedia": 4,
+     "mediaRadius": 18,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 1047
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.36
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "display",
+     "body"
+    ]
+   },
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 1024,
+   "message": "3 headline(s) wrap past two lines at 1024px: \"ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, ПРОИЗВОДС\" → 3 lines (7 words, 61.6px); \"ВОПРОСЫ? У НАС ЕСТЬ ОТВЕТЫ.\" → 3 lines (5 words, 68.8px); \"ОТПРАВЬТЕ ЗАЯВКУ И МЫ ПОДГОТОВИМ ПРЕДЛОЖЕНИЕ ПОД\" → 3 lines (9 words, 33.6px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1024,
+   "message": "4 eyebrow/kicker label(s) above headings: \"НАДЁЖНЫЙПАРТНЁР ДЛЯ ВАШЕГОБИЗНЕСА\" above \"ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, П\"; \"ПРОСТОЙ ПРОЦЕСС\" above \"КАК МЫ РАБОТАЕМ.\"; \"ПОЧЕМУ ВЫБИРАЮТ НАС\" above \"НАШИ ПРЕИМУЩЕСТВА.\"; \"ЧАСТЫЕ ВОПРОСЫ\" above \"ВОПРОСЫ? У НАС ЕСТЬ ОТВЕТЫ.\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "numbering",
+   "width": 1024,
+   "message": "Decorative index numbers: \"01\", \"01 / 04\", \"01\", \"02\", \"03\", \"04\"",
+   "fix": "Remove them. If order truly matters, write it into the words (\"First, …\") or use a real <ol>.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "emoji",
+   "width": 1024,
+   "message": "Emoji in the page: ✳",
+   "fix": "Remove. Use words or real imagery.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1024,
+   "message": "2 gradient fill(s): span.halftone.orange-pattern → radial-gradient(rgb(252, 80, 0) 1.04px, rgba(0, 0, 0, 0) 1.28px) | span.halftone.violet-pattern → radial-gradient(rgb(82, 74, 233) 1.12px, rgba(0, 0, 0, 0) 1.28px)",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1024,
+   "message": "Yellow-cream background (text #f7f6f2).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "contrast",
+   "width": 1024,
+   "message": "Low-contrast text: \"Рассчитать стоимость\" 3.3:1 needs 4.5:1; \"Отправьте заявку\" 3.3:1 needs 4.5:1; \"НАПРАВЛЕНИЯ РАБОТЫ\" 3.4:1 needs 4.5:1; \"ЧАСТЫЕ ВОПРОСЫ\" 3.4:1 needs 4.5:1",
+   "fix": "Darken or lighten the text colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "font-count",
+   "width": 1024,
+   "message": "3 typefaces in use (Body, Display, Arial).",
+   "fix": "Two at most.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1024,
+   "message": "18 different font sizes (8, 9, 10, 11, 12, 13, 15, 17, 19, 21, 22, 32, 34, 58, 62, 66, 69, 70).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "body-size",
+   "width": 1024,
+   "message": "Body text is 12.3px (the size most of the running text is set in).",
+   "fix": "Body copy 16–20px. Map small sizes from blueprints onto your body step.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1024,
+   "message": "52 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "3 headline(s) wrap past two lines at 768px: \"ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, ПРОИЗВОДС\" → 4 lines (7 words, 67.2px); \"ВОПРОСЫ? У НАС ЕСТЬ ОТВЕТЫ.\" → 3 lines (5 words, 60.8px); \"ОТПРАВЬТЕ ЗАЯВКУ И МЫ ПОДГОТОВИМ ПРЕДЛОЖЕНИЕ ПОД\" → 3 lines (9 words, 41.6px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 768,
+   "message": "6 thin rule(s)/divider line(s): article.advantage.sc-in 264px | article.advantage.sc-in 264px | article.advantage.sc-in 264px | article.advantage.sc-in 264px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "3 headline(s) wrap past two lines at 390px: \"ПРОФЕССИОНАЛЬНЫЙ ПЕРСОНАЛ ДЛЯ СКЛАДОВ, ПРОИЗВОДС\" → 4 lines (7 words, 41px); \"ВОПРОСЫ? У НАС ЕСТЬ ОТВЕТЫ.\" → 3 lines (5 words, 60.8px); \"ОТПРАВЬТЕ ЗАЯВКУ И МЫ ПОДГОТОВИМ ПРЕДЛОЖЕНИЕ ПОД\" → 3 lines (9 words, 28.1px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "tablet",
+   "width": 1024,
+   "fold": "/Users/abdul/Desktop/профистаф/site/docs/taste-inspection/tablet-fold.jpg",
+   "pages": [
+    "/Users/abdul/Desktop/профистаф/site/docs/taste-inspection/tablet-page-01.jpg"
+   ]
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/abdul/Desktop/профистаф/site/docs/taste-inspection/tablet-fold.jpg",
+   "pages": [
+    "/Users/abdul/Desktop/профистаф/site/docs/taste-inspection/tablet-page-01.jpg"
+   ]
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/abdul/Desktop/профистаф/site/docs/taste-inspection/mobile-fold.jpg",
+   "pages": [
+    "/Users/abdul/Desktop/профистаф/site/docs/taste-inspection/mobile-page-01.jpg"
+   ]
+  }
+ ]
+}
