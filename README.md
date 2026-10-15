@@ -26,6 +26,8 @@ npm run preview
 
 ## GitHub и Vercel
 
+Опубликованный сайт: https://profistaf.vercel.app
+
 Репозиторий: https://github.com/abdulguna216-pixel/profistaf . В корне репозитория расположен сам Vite-проект; Root Directory на Vercel оставьте пустым. Настройки сборки описаны в `vercel.json`: framework Vite, команда `pnpm run build`, результат `dist`.
 
 Для использования версии pnpm из `packageManager` на Vercel включён Corepack через переменную проекта `ENABLE_EXPERIMENTAL_COREPACK=1`. Служебные каталоги, локальные переменные и зависимости исключены из Git и загрузки Vercel. Текущее состояние размещения — в `docs/DEPLOYMENT.md`.
