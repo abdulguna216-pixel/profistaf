@@ -1,0 +1,46 @@
+{
+  "change": "Уникальное фото самого склада без людей с эффектом в стиле Hero",
+  "results": [
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "faqSource": "http://127.0.0.1:5173/assets/faq-warehouse-480.webp",
+      "faqLoaded": true,
+      "serviceSources": [
+        "http://127.0.0.1:5173/assets/pick-natural-480.webp",
+        "http://127.0.0.1:5173/assets/production-natural-480.webp",
+        "http://127.0.0.1:5173/assets/logistics-natural-480.webp",
+        "http://127.0.0.1:5173/assets/warehouse-480.webp"
+      ],
+      "removedAction": true
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "faqSource": "http://127.0.0.1:5173/assets/faq-warehouse-480.webp",
+      "faqLoaded": true,
+      "serviceSources": [
+        "http://127.0.0.1:5173/assets/pick-natural-480.webp",
+        "http://127.0.0.1:5173/assets/production-natural-480.webp",
+        "http://127.0.0.1:5173/assets/logistics-natural-480.webp",
+        "http://127.0.0.1:5173/assets/warehouse-480.webp"
+      ],
+      "removedAction": true
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "faqSource": "http://127.0.0.1:5173/assets/faq-warehouse-480.webp",
+      "faqLoaded": true,
+      "serviceSources": [
+        "http://127.0.0.1:5173/assets/pick-natural-480.webp",
+        "http://127.0.0.1:5173/assets/production-natural-480.webp",
+        "http://127.0.0.1:5173/assets/logistics-natural-480.webp",
+        "http://127.0.0.1:5173/assets/warehouse-480.webp"
+      ],
+      "removedAction": true
+    }
+  ],
+  "accordionWorks": true,
+  "errors": []
+}

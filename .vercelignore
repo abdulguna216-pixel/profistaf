@@ -1,0 +1,9 @@
+.git/
+node_modules/
+dist/
+.sites-runtime/
+.openai/
+docs/
+.env*
+.DS_Store
+site/

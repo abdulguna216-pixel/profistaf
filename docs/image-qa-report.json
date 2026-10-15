@@ -1,0 +1,244 @@
+{
+  "change": "Все фото ниже Hero обычные; вторичное действие Hero и анимация этапов удалены",
+  "widths": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "images": [
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/pick-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/production-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/logistics-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/warehouse-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/warehouse-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        }
+      ],
+      "faqOverlays": 0,
+      "faqMask": "none",
+      "activeSteps": 0
+    },
+    {
+      "width": 375,
+      "scrollWidth": 375,
+      "images": [
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/pick-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/production-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/logistics-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/warehouse-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/warehouse-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        }
+      ],
+      "faqOverlays": 0,
+      "faqMask": "none",
+      "activeSteps": 0
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "images": [
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/pick-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/production-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/logistics-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/warehouse-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/warehouse-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        }
+      ],
+      "faqOverlays": 0,
+      "faqMask": "none",
+      "activeSteps": 0
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "images": [
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/pick-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/production-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/logistics-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/warehouse-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/warehouse-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        }
+      ],
+      "faqOverlays": 0,
+      "faqMask": "none",
+      "activeSteps": 0
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "images": [
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/pick-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/production-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/logistics-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/warehouse-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/warehouse-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        }
+      ],
+      "faqOverlays": 0,
+      "faqMask": "none",
+      "activeSteps": 0
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "images": [
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/pick-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/production-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/logistics-natural-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/warehouse-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        },
+        {
+          "loaded": true,
+          "source": "http://127.0.0.1:5173/assets/warehouse-480.webp",
+          "filter": "none",
+          "blend": "normal"
+        }
+      ],
+      "faqOverlays": 0,
+      "faqMask": "none",
+      "activeSteps": 0
+    }
+  ],
+  "removedHeroAction": true,
+  "processStatic": true,
+  "faqWorks": true,
+  "servicePrefillWorks": true,
+  "errors": []
+}
